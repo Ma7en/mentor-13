@@ -1,0 +1,14 @@
+
+/*  */
+
+@media (max-width: 991px) {
+    .ment .container .card .top .right .cont {
+        flex-direction: column;
+    }
+
+    .ment .container .card .top .right .cont ul {
+        margin-bottom: 10px;
+    }
+
+
+}
